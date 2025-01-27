@@ -9,7 +9,7 @@ git clone https://github.com/fru1tcakes/CwPM-Frontend/
 ```
 then navigate to it
 ```bash
-cd CwPM-Frontend/
+cd CwPM-Frontend/my-app
 ```
 Then, run the development server:
 
